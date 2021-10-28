@@ -5,6 +5,7 @@
 <?php
    $firstline=`head -n1 path.txt`;          
    $path_img="https://".$firstline."/coffee2.jpg";
+   $path_img="https://".$firstline."/coffee1.jpg";
    echo "<br>";
    echo "<img src='{$path_img}' width=500 height=500>";
 ?>
