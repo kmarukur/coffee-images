@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Hello World!</h1>
+<h1>Good Morning!</h1>
 <h5><b>Below image is from cloudfront</b></h5>
 <?php
    $firstline=`head -n1 path.txt`;          
